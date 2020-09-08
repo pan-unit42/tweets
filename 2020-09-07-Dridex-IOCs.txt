@@ -106,7 +106,7 @@ EXAMPLE OF DRIDEX INSTALLER DLL:
 - File location: C:\Users\[username]\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes\1kNIz\VERSION.dll
 - File description: Dridex DLL run by copy of legitimate system file sigverif.exe in the same directory, made persistent through a Windows registry update
 
-- SHA256 hash: b7982ba52fa405eb15db53c75390e820a030e64147d236f090c2d21cf0865922le
+- SHA256 hash: b7982ba52fa405eb15db53c75390e820a030e64147d236f090c2d21cf0865922
 - File size: 1,015,296 bytes
 - File location: C:\Users\[username]\AppData\Roaming\Microsoft\Internet Explorer\UserData\Jov5Cwf8Pz3\FVEWIZ.dll
 - File description: Dridex DLL run by copy of legitimate system file BitLockerWizard.exe in the same directory, persistent through a scheduled task
