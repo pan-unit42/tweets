@@ -105,7 +105,7 @@ FOLLOW-UP MALWARE FROM SMOKELOADER:
 - File description: 64-bit Dridex DLL file (2 of 3)
 - Note: Loaded by copy of legitimate system file ie4ushowIE.exe in the same directory
 
-- SHA256 hash: adf2a2a7d9d00ae8876d2f6545cde9a10faf2a44786029a3fa01b6873cc74757
+- SHA256 hash: 745d5479a4494eef784f5c5ef0cb9acb4199f02c9a7890b1d294c18c83fe1705
 - File size: 1,210,880 bytes
 - File location: C:\Users\[username]\AppData\Roaming\Microsoft\Office\16.0\f313ca8f\Proofing\xHJ\DUI70.dll
 - File description: 64-bit Dridex DLL file (3 of 3)
