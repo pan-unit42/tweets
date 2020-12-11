@@ -40,7 +40,7 @@ ASSOCIATED MALWARE:
 
 INFECTION TRAFFIC:
 
-- 205.185.113[.]20 port 80 - 205.185.113.[.]20 - GET /SYrgg8Ts
+- 205.185.113[.]20 port 80 - 205.185.113[.]20 - GET /SYrgg8Ts
 - 205.185.113[.]20 port 80 - 205.185.113[.]20 - GET /files/1.dll
 - 37.120.222[.]107 port 80 - booloolo2[.]com - GET /images/[long base64 string with underscores and slashes].avi
 - 162.0.224[.]165 port 80 - 162.0.224[.]165 - GET /grab32.rar 
