@@ -47,7 +47,7 @@ MALWARE FROM AN INFECTION:
 - SHA256 hash: 5fe4d17b25fd66a417eb4f4fe1c9214f9410bb66937ad877295c938f318c2744
 - File size: 45,056 bytes
 - File location: C:\Users\[username]\AppData\Roaming\[username]\{9382BE5D-ADC1-386D-2E12-25BAA43199E2}\aruqsefu.dll
-- File description: persistent IcedID DLLnt
+- File description: persistent IcedID DLL
 - Run method: rundll32.exe [filename],update /i:"AreaArrest\license.dat"
 
 TRAFFIC FROM AN INFECTION:
