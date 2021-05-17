@@ -1,5 +1,9 @@
 2021-05-14 (MONDAY) - TA551 (SHATHAK) WORD DOCS WITH MACROS FOR ICEDID (BOKBOT):
 
+LINK TO MALWARE SAMPLES:
+
+- https://github.com/pan-unit42/tweets/blob/master/2021-05-14-TA551-IcedID-malware-and-artifacts.zip
+
 CHAIN OF EVENTS:
  
 - malspam --> password-protected zip attachment --> extracted Word doc --> enable macros --> installer DLL for IcedID --> IcedID infection activity
