@@ -2,7 +2,7 @@
 
 CHAIN OF EVENTS:
 
-- Email --> Link --> Downloaded file Stolen Images Evidence.zip --> Extracted file Stolen Images Evidence.js --> BazarLoader DLL --> Bazar C2 traffic --> Trickbot gtag mod8 as follow-up malware
+- Email --> Link -->  Stolen Images Evidence.zip --> Stolen Images Evidence.js --> BazarLoader DLL --> Bazar C2 traffic --> Trickbot gtag mod8
 
 ASSOCIATED MALWARE:
 
