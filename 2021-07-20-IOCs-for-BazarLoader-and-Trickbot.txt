@@ -32,7 +32,7 @@ ASSOCIATED MALWARE:
 
 - SHA256 hash: ade2a738f75f052722923641168d0b3862981e0dd23b31834c1520123a73be49
 - File size: 655,360 bytes
-- File location: C:\Users\[username]\AppData\Local\Temp\DDA9.dllll
+- File location: C:\Users\[username]\AppData\Local\Temp\DDA9.dll
 - File description: Another binary for Trickbot as follow-up malware from BazarLoader infection (gtag mod8)
 - Run method: rundll32.exe [filename],StartW 
 
