@@ -20,7 +20,7 @@ ASSOCIATED MALWARE:
 - File description: Malicious JS file retrieved from above ZIP archive
 
 - SHA256 hash: 6e057855e21f4c93a4e3825b9711ca07ccec94fed55dbc20e1d3316b2b3dc549
-- File size: 18,881 bytes
+- File size: 632,320 bytes
 - File location: hxxps://docs.zohopublic[.]eu/downloaddocument.do?docId=674ni225458b03d204b4ab290dc0afd57ec8c&docExtn=pdf
 - File location: C:\Users\[username]\AppData\Local\Temp\wfhG.bin
 - File location: C:\Users\[username]\AppData\Roaming\wise-toolsZ7RZBV\hbwfhGzt.grf
