@@ -10,7 +10,7 @@ NOTES:
 
 - Squirrelwaffle loader is pushed from the same infrastructure that previously pushed Qakbot before Qakbot dissappeared sometime in mid- to late-July 2021.
 
-- Squirrelwaffle loader is distributed through email, and these messages are spoofed replies to legitimate email chains like we saw previously with Qakbot distribution.
+- Squirrelwaffle loader is distributed through email, and these messages are spoofed replies to legitimate email chains like we saw previously with Qakbot.
 
 - Last week we saw Word documents used for the infection chain.  Today we saw Excel spreadsheets instead.
 
