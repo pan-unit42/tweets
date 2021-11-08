@@ -2,7 +2,7 @@
 
 CHAIN OF EVENTS:
  
-- malspam --> password-protected zip attachment --> extracted Word doc --> enable macros --> installer DLL for Trickbot --> post-infection activity --> Cobalt Strike as follow-up malware
+- malspam --> password-protected zip attachment --> extracted Word doc --> enable macros --> BazarLoader --> post-infection activity --> Cobalt Strike as follow-up malware
 
 ASSOCIATED MALWARE:
 
