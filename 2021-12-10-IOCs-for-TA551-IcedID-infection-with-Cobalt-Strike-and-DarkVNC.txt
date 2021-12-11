@@ -53,6 +53,7 @@ ASSOCIATED MALWARE:
 TRAFFIC FOR INSTALLER DLL:
 
 - 146.19.233[.]44 port 80 - copelandbenefitg[.]com - GET /frhe/[long string]/repa7?[long string]
+- 146.19.233[.]44 port 80 - buchananfoodss[.]com
 
 TRAFFIC CAUSED BY ICEDID INSTALLER DLL: 
 
