@@ -14,8 +14,8 @@ NOTES:
   - Informazioni.zip
   - Request.zip
 
-- Password for zip files containing German template Word docs:ÿ itg68
-- Password for zip files containing Italian template Word docs:ÿ 4y45h
+- Password for zip files containing German template Word docs: itg68
+- Password for zip files containing Italian template Word docs: 4y45h
 
 20 EXAMPLES OF TA551 WORD DOCS WITH MACROS:
 
