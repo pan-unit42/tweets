@@ -44,6 +44,7 @@ AT LEAST 6 DOMAINS HOSTING THE INSTALLER DLL:
 
 - 45.67.229[.]54 - mccormickborings[.]com
 - 45.142.212[.]97 - ayalahurryg[.]com
+- 45.142.212[.]97 - fittravisd[.]com
 - 45.142.212[.]174 - figueroascorpiong[.]com
 - 45.142.212[.]198 - gallagherpipess[.]com
 - 80.71.157[.]216 - hullsmileg[.]com
