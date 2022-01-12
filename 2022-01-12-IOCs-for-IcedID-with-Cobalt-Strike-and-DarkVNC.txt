@@ -36,11 +36,11 @@ GZIP BINARY:
 - File type: gzip compressed data, was "Orphan.txt", from FAT filesystem (MS-DOS, OS/2, NT), original size modulo 2^32 2529244
 - File description: gzip binary retreived by installer to create license.txt and persistent IcedID DLL
 
-LICENSE.TXT:
+LICENSE.DAT:
 
 - SHA256 hash: cfc202b44509f2f607d365858a8218dfdc6b26f8087efcc5e46f4fef9ab53705
 - File size: 341,898 bytes
-- File location: C:\Users\[username]\AppData\Roaming\FirstInherit\license.txt
+- File location: C:\Users\[username]\AppData\Roaming\FirstInherit\license.dat
 - File description: data file used to run persistent IcedID DLL
 - Note: First submitted to VirusTotal on 2021-11-24
 
