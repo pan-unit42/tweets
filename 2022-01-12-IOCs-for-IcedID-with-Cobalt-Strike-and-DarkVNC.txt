@@ -79,7 +79,7 @@ COBALT STRIKE TRAFFIC:
 
 UNUSUAL TRAFFIC (DON'T KNOW WHAT THIS WAS CAUSED BY):
 
-- 185.70.184[.]43 port 8572 - HTTPS/SSL/TLS traffic  (same IP used by some of the IcedID C2 domains)
+- 185.70.184[.]43 port 8572 - HTTPS/SSL/TLS traffic
 
 DARK VNC TRAFFIC:
 
