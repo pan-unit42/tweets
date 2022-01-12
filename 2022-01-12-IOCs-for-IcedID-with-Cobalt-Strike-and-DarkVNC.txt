@@ -34,7 +34,7 @@ GZIP BINARY:
 - File size: 457,853 bytes
 - File location: hxxp://olerantand[.]top/
 - File type: gzip compressed data, was "Orphan.txt", from FAT filesystem (MS-DOS, OS/2, NT), original size modulo 2^32 2529244
-- File description: gzip binary retreived by installer to create license.txt and persistent IcedID DLL
+- File description: gzip binary retreived by installer to create license.dat and persistent IcedID DLL
 
 LICENSE.DAT:
 
