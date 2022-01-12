@@ -50,7 +50,7 @@ PERSISTENT ICEDID DLL:
 - File size: 115,200 bytes
 - File location: C:\Users\[username]\AppData\Roaming\kosohu\Gigaod32\Jugeejmo2.dll
 - File description: Persistent DLL for IcedID
-- Run method: rundll32.exe [filename],DllMain --exibga="[path to license.txt]"
+- Run method: rundll32.exe [filename],DllMain --exibga="[path to license.dat]"
 
 TRAFFIC FOR THE GZIP BINARY:
 
