@@ -2,7 +2,7 @@
 
 INFECTION CHAIN:
 
-- website contact form submsission --> email --> link --> "Stolen Images Evidence" page --> downloaded zip --> extracted Excel file --> enable macros --> IcedID --> Cobalt Strike
+- website contact form submission --> email --> link --> "Stolen Images Evidence" page --> downloaded zip --> extracted Excel file --> enable macros --> IcedID --> Cobalt Strike
 
 BACKGROUND INFORMATION ON CONTACT FORMS CAMPAIGN:
 
@@ -51,7 +51,7 @@ FILES FOR PERSISTENT ICEDID INFECTION:
 - SHA256 hash: 99ebe73d254cd651c29a12f3c344953b327618d05fa0048b1be02648c994dd4d
 - File size: 891,004 bytes
 - File location: hxxp://carpricegoods[.]com/
-- File description: Gzip binary retreived by the above installer DLLs
+- File description: Gzip binary retrieved by the above installer DLLs
 
 - SHA256 hash: cfc202b44509f2f607d365858a8218dfdc6b26f8087efcc5e46f4fef9ab53705
 - File size: 341,898 bytes
