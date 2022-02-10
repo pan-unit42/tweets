@@ -26,7 +26,11 @@ EXTRACTED EXCEL FILE WITH MALCIOUS MACRO CODE:
 - SHA256 hash: e73b86fc2b4e93f2808c6e634a4e513a551f42ecbd927f3507d83cd0c1e94ed4
 - File size: 141,312 bytes
 - File name: Data_57592.xls
-- File type: Composite Document File V2 Document, Little Endian, Os: Windows, Version 6.2, Code page: 1251, Author: User, Last Saved By: 1, Name of Creating Application: Microsoft Excel, Create Time/Date: Wed Feb  9 09:48:26 2022, Last Saved Time/Date: Wed Feb  9 16:14:48 2022, Security: 0
+- File type: Composite Document File V2 Document, Little Endian, Os: Windows, 
+Version 6.2, Code page: 1251, Author: User, Last Saved By: 1, 
+Name of Creating Application: Microsoft Excel, 
+Create Time/Date: Wed Feb  9 09:48:26 2022, 
+Last Saved Time/Date: Wed Feb  9 16:14:48 2022, Security: 0
 
 EMOTET DLL:
 
