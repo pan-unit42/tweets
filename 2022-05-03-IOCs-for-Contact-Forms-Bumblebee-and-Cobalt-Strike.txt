@@ -2,7 +2,7 @@
 
 CHAIN OF EVENTS:
 
-- Contact form-generated email --> link to URL at storage.googeapis.com --> ISO download --> Bumblebee infection --> Cobalt Strike activity
+- Contact form-generated email --> link to URL at storage.googeapis.com --> ISO file download --> Bumblebee infection --> Cobalt Strike activity
 
 NOTES:
 
