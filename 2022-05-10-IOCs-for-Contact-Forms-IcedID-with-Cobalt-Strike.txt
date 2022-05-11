@@ -97,7 +97,6 @@ ICEDID C2 TRAFFIC:
 - 85.239.61[.]45 port 443 - meanforthen[.]com - HTTPS traffic
 - 135.148.217[.]93 port 443 - eldingdayl[.]com - HTTPS traffic
 
-
 COBALT STRIKE TRAFFIC:
 
 - 138.124.183[.]147 port 80 - policyupdating[.]com - GET /microsoft
