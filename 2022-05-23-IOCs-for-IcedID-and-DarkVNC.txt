@@ -4,9 +4,9 @@ NOTES:
 
 - Indications of this infection chain originally appeared last week.
 - It apparently started on Monday 2022-05-16.
-- The LNK file was first reported at https://twitter.com/malwrhunterteam/status/1526557532277424129
+- The Windows shortcut file was first reported at https://twitter.com/malwrhunterteam/status/1526557532277424129
 - The associated files were still available online, and we used them to infect a vulnerable Windows host on Monday 2022-05-23.
-- This infection chain likely used email as an initial infection vector.
+- This infection chain likely used email with a link to the zip-ed Windows shortcut as an initial infection vector.
 
 INFECTION CHAIN:
 
@@ -15,7 +15,7 @@ INFECTION CHAIN:
 INFECTION CHAIN STEP-BY-STEP:
 
 - hxxps://hectorcalle[.]com/May-16_2022.zip --> May-16_2022.lnk
-- May-16_2022.lnkÿ--> hxxps://hectorcalle[.]com/093789.hta
+- May-16_2022.lnkÃ¿--> hxxps://hectorcalle[.]com/093789.hta
 - hxxps://hectorcalle[.]com/093789.hta --> hxxps://hectorcalle[.]com/listbul.exe
 - hxxps://hectorcalle[.]com/listbul.exe --> C:\Users\[username]\listbul.exe
 
