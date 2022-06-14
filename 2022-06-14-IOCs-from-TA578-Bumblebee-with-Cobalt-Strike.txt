@@ -19,7 +19,7 @@ ASSOCIATED MALWARE:
 - SHA256 hash: 7ea93d3194137b5e8e11609733b6d1dbefda22cc1e129e25a06e8623f2bbc3e3
 - File size: 2,098 bytes
 - File name: documents.lnk
-- File description: Windows shorcut contained in above ISO image
+- File description: Windows shortcut contained in above ISO image
 - Command from shortcut: C:\Windows\System32\rundll32.exe toso3l.dll,LyirJCyvGh
 
 - SHA256 hash: 2e349b3224cc0d958e6945623098c2d28cc8977e0d45480c0188febbf7b8aa78
