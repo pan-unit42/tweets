@@ -58,7 +58,7 @@ TRAFFIC FROM AN INFECTED WINDOWS HOST:
 
 URLS USED FOR INITIAL ZIP-ED ISO DOWNLOAD:
 
-- hxxps:// forms.yandex[.]com/u/62c3f155d938b02acd2ffef7/success/?w=858456524639516896
+- hxxps://forms.yandex[.]com/u/62c3f155d938b02acd2ffef7/success/?w=858456524639516896
 
 - hxxps://firebasestorage.googleapis[.]com/v0/b/deft-scout-355009.appspot.com/o/heLG2kRaZE%2FStolen_ImagesEvidence.zip?
   alt=media&amp;token=06d21941-1fca-44f5-97e1-5037333a065e
