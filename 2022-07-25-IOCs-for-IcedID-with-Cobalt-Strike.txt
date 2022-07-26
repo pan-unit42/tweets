@@ -4,7 +4,7 @@ NOTES:
 
 - Threat actors pushing IcedID have been active in recent weeks using thread-hijacked emails with password-protected zip archives containing ISO files.
 
-- eventbloodd.com used for the IcedID gzip binary was also reported at https://twitter.com/pr0xylife/status/1551620049093509122
+- eventbloodd[.]com used for the IcedID gzip binary was also reported at https://twitter.com/pr0xylife/status/1551620049093509122
 
 ASSOCIATED MALWARE:
 
