@@ -70,5 +70,5 @@ ICEDID C2 TRAFFIC:
 COBALT STRIKE ACTIVITY:
 
 - 23.106.223[.]135 port 443 - rehazosipa[.]com - HTTPS traffic, probable Cobalt Strike
-- 104.238.220[.]131 port 80 - 104.238.220[.]131 GET /download/sys.exe HTTP/1.1 
+- 104.238.220[.]131 port 80 - 104.238.220[.]131 - GET /download/sys.exe HTTP/1.1 
 - 172.93.179[.]196 port 443 - wafefuvuko[.]com - HTTPS traffic
