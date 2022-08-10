@@ -1,4 +1,4 @@
-2022-08-08 (MONDAY) - ICEDID (BOKBOT) INFECTION WITH COBALT STRIKE
+2022-08-10 (WEDNESDAY) - THREE COBALT STRIKE BINARIES FROM ICEDID (BOKBOT) INFECTION
 
 INFECTION CHAIN:
 
@@ -6,69 +6,94 @@ INFECTION CHAIN:
 
 ZIP ATTACHMENT AND EXTRACTED ISO IMAGE:
 
-- SHA256 hash: fb6d23f69d14d474ce096da4dcfea27a84c93f42c96f6dd8295d33ef2845b6c7
-- File size: 554,430 bytes
-- File name: erosstrucking-file-08.08.2022.zip
+- SHA256 hash: da3758e495b18811cdc54f9a4379a7870d34990f232cc4dacc1366db28c1cbff
+- File size: 182,218 bytes
+- File name: Invoice#8289_August-09-2022pdf.zip
 - File description: password-protected zip archive
-- Password: office080822
+- Password: august09
 
-- SHA256 hash: d403df3fb181560d6ebf4885b538c5af86e718fecfabc73219b64924d74dd0eb
-- File size: 1,019,904 bytes
-- File name: order-130722.28554.iso
+- SHA256 hash: 3118ae5d1126fe2fd3a1290cfd9fe7bba6bdf9fcc16985938e9836d57d30f617
+- File size: 581,632 bytes
+- File name: Inv#08_09_2022pdf.iso
 - File description: ISO image extracted from the above zip archive
 
-CONTENTS OF ISO IMAGE:
+CONTENTS OF ISO IMAGE USED FOR THE INFECTION:
 
-- SHA256 hash: 3d279aa8f56e468a014a916362540975958b9e9172d658eb57065a8a230632fa
-- File size: 401,115 bytes
-- File name: pss10r.chm
-- File description: CHM (Microsoft Compiled HTML Help) file used to run IcedID installer DLL
+- SHA256 hash: 8719b929eb73091f6222d67db52154807714fd309425674a660f35153540e953
+- File size: 1,340 bytes
+- File name: Invoice-August-09-2022pdf.lnk
+- File description: Windows shortcut that runs batch file
 
-- SHA256 hash: d240bd25a0516bf1a6f6b3f080b8d649ed2b116c145dd919f65c05d20fc73131
-- File size: 246,272 bytes
-- File name: app.dll
-- File description: 64-bit DLL installer for IcedID, hidden file on the ISO image.
+- SHA256 hash: bbd87df5a81659cfd946abff6fba3c37b609d140ac3318abeceadf11fbd06fae
+- File size: 62 bytes
+- File name: your/theThingWithInWay.bat
+- File description: Batch file run by the above Windows shortcut
+
+- SHA256 hash: fa29eb8864ca60b8483e75027ebe66a76305e0418033ba31d74a905549246338
+- File size: 404 bytes
+- File name: your/orInHowPeopleWe.js
+- File description: script run by the above batch file
+
+- SHA256 hash: 0ce6490ad077abddd822df8a947242b1ac6df7769f151bd822c7c3e5737f2912
+- File size: 74,240 bytes
+- File name: your/nowThoseUseBecauseAs.txt
+- File description: 64-bit DLL installer for IcedID
 - Run method: rundll32.exe [filename],#1
 
 FILES FROM THE INFECTION:
 
-- SHA256 hash: e571bb9fa8d7aa7125b52f768d1b723e440ec352621a2c5410793a20a9eb1a01
-- File size: 576,956 bytes
-- File location: hxxp://abegelkunic[.]com/
-- File description: gzip binary from abegelkunic.com used to creat license.dat and peristent IcedID DLL
+- SHA256 hash: 770f77dfff239ac2fddcc603806062c968d9db9ef6819794bb2452d28856a537
+- File size: 400,316 bytes
+- File location: hxxp://qropalhouse[.]com/
+- File description: gzip binary from qropalhouse.com used to creat license.dat and peristent IcedID DLL
 
 - SHA256 hash: 1de8b101cf9f0fabc9f086bddb662c89d92c903c5db107910b3898537d4aa8e7
 - File size: 342,218 bytes
-- File location: C:\Users\[username]\AppData\Roaming\PioneerSilly\license.dat
+- File location: C:\Users\[username]\AppData\Roaming\PalaceMyth\license.dat
 - File description: data binary used to run persistent DLL for IcedID
 
-- SHA256 hash: 62ddbb31a8c75afe47c5f55288da2082bc2fdb34303b203cb6d46d00fcfe200a
-- File size: 233,984 bytes
-- File location: C:\Users\[username]\AppData\Local\{6CAB6B1F-1147-D823-B509-235172939D4D}\Utimmiws.dll
+- SHA256 hash: 1b92046cff47b821b3666c72dea660b5ec9ebfd9556bd0de33883ebe1de0f3fc
+- File size: 57,344 bytes
+- File location: C:\Users\[username]\AppData\Roaming\[username]\{8AFDF19C-FA6B-B120-6228-7BCCBDAD03A3}\Ilfievtk.dll
 - File description: 64-bit persistent DLL for IcedID
-- Run method: rundll32.exe [filename],#1 --giqo="[path to license.dat]"
+- Run method: rundll32.exe [filename],#1 --ra="[path to license.dat]"
 
-- SHA256 hash: af0161e32347bfcf617e1783f4a4a97154f5e2e4da55f0b8ac65e99fa746a907
-- File size: 1,017,856 bytes
-- File location: hxxp://104.238.220[.]131/download/sys.exe 
-- File location: C:\User\[username]\AppData\Local\Temp\Liixke.exe
-- File location: C:\User\[username]\AppData\Local\Temp\sojeah.exe
+- SHA256 hash: 99be525b748064edaa30caa911b1122187139c463ad29068c3ee5cf69eed774e
+- File size: 1,018,880 bytes
+- File location: hxxp://lobazedeke[.]com/jjj.dll
+- File location: C:\User\[username]\AppData\Local\Temp\wapehi.dll
+- File description: 64-bit DLL stager for Cobalt Strike
+
+- SHA256 hash: 5efe564a2c779adebab8e664d524a0cfd026c8ab3a57527bd1d821245ffc2a8c
+- File size: 2,134,016 bytes
+- File location: hxxp://172.93.98[.]170/download/a2.dll
+- File location: C:\User\[username]\AppData\Local\Temp\Unfeag2.dll
+- File description: 64-bit DLL stager for Cobalt Strike
+
+- SHA256 hash: 33d17bbc69d8f9087dc9a774d314cdde24d2ac81c42bb3b7f839a206b77d9ea8
+- File size: 2,134,016 bytes
+- File location: hxxp://104.243.42[.]63/download/63a.exe
+- File location: C:\User\[username]\AppData\Local\Temp\Pegaxu1.exe
 - File description: 64-bit EXE stager for Cobalt Strike
 
 TRAFFIC FROM THE INFECTION:
 
 INSTALLER RETRIEVES GZIP BINARY:
 
-- 178.62.238[.]75 port 80 - abegelkunic[.]com - GET / HTTP/1.1 
+- 64.227.108[.]27 port 80 - qropalhouse[.]com - GET / HTTP/1.1 
 
 ICEDID C2 TRAFFIC:
 
-- 193.109.120[.]51 port 443 - ultomductingbig[.]pro - HTTPS traffic
-- 146.190.25[.]131 port 443 - alohasockstaina[.]com - HTTPS traffic
-- 46.21.153[.]211 port 443 - wiandukachelly[.]com - HTTPS traffic
+- 167.99.193[.]49 port 443 - wronigrabs[.]com - HTTPS traffic
+- 167.99.193[.]49 port 443 - cleverchaosname[.]com - HTTPS traffic
 
 COBALT STRIKE ACTIVITY:
 
-- 23.106.223[.]135 port 443 - rehazosipa[.]com - HTTPS traffic, probable Cobalt Strike
-- 104.238.220[.]131 port 80 - 104.238.220[.]131 - GET /download/sys.exe HTTP/1.1 
-- 172.93.179[.]196 port 443 - wafefuvuko[.]com - HTTPS traffic
+- 64.44.135[.]36 port 80 - lobazedeke[.]com - GET /jjj.dll HTTP/1.1 
+- 213.227.154[.]169 port 443 - junudorij[.]com - HTTPS C2 traffic from the above DLL
+
+- 172.93.98[.]170 port 80 - 172.93.98[.]170 - GET /download/a2.dll HTTP/1.1 
+- 23.106.215[.]64 port 443 - jahojahi[.]com - HTTPS C2 traffic from the above DLL
+
+- 104.243.42[.]63 port 80 - 104.243.42[.]63 - GET /download/63a.exe HTTP/1.1 
+- 64.44.135[.]171 port 443 - bidevazomu[.]com - HTTPS C2 traffic from the above EXE
