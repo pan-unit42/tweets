@@ -1,0 +1,81 @@
+2022-08-29 (MONDAY) - MONSTER LIBRA (TA551/SHATHAK) --> ICEDID (BOKBOT) --> COBALT STRIKE
+
+REFERENCES:
+
+- https://twitter.com/0xToxin/status/1564289244084011014
+- https://twitter.com/Myrtus0x0/status/1564280858521247744
+
+ASSOCIATED MALWARE:
+
+- SHA256 hash: 8c0dc7eb659bcae0b250a1e1210cb9987395d84c68818721b16ef6e994447693
+- File size: 4,022,441 bytes
+- File name: [name removed],document,08.29.zip
+- File description: password-protected zip archive attached to Monster Libra (TA551) email
+- Password: mypass290822
+- Sample available at: https://bazaar.abuse.ch/sample/8c0dc7eb659bcae0b250a1e1210cb9987395d84c68818721b16ef6e994447693/
+
+- SHA256 hash: 692bab41104a0e01ab0bd055e73a3d34ace793b5f29a0d10506d75ff6baadd0c
+- File size: 4,044,427 bytes
+- File name: document-098.rtf
+- File description: Microsoft Word document (.docx) with macro for IcedID installer
+- Sample available at: https://bazaar.abuse.ch/sample/692bab41104a0e01ab0bd055e73a3d34ace793b5f29a0d10506d75ff6baadd0c/
+
+- SHA256 hash: f17f7494083fcf58ab67652836719ef50f0590f2a57bfe664744e68a56a4c832
+- File size: 41,472 bytes
+- File location: C:\Windows\SYSWOW64\rundll32.exe
+- File location: C:\Users\[username]\AppData\Roaming\JTyorUaNNCP4.exe
+- File description: Copy of Rundll32.exe
+- Note: This is not a malicious file, but a legitimate Microsoft file used to run the below DLL. Any version of rundll32.exe will work.
+
+- SHA256 hash: 2fdfe0d04e98400c1dd25fa10edf2996c6f1bbe5df50316f2e30b8bf4fae8bdb
+- File size: 389,632 bytes
+- File location: C:\Users\[username]\AppData\Roaming\JTyorUaNNCP4.dll
+- File description: 64-bit DLL installer for IcedID (Bokbot) malware
+- Run method: rundll32.exe [filename],#1
+- Sample available at: https://bazaar.abuse.ch/sample/2fdfe0d04e98400c1dd25fa10edf2996c6f1bbe5df50316f2e30b8bf4fae8bdb/
+
+- SHA256 hash: a236e1728bff71b26f58e569e9a4e9c539777278de38c481291c625d4862833a
+- File size: 721,853 bytes
+- File location: hxxp://godenfasternow[.]com/
+- File description: gzip binary used to create license.dat data binary & persistent IcedID DLL
+- Sample available at: https://bazaar.abuse.ch/sample/a236e1728bff71b26f58e569e9a4e9c539777278de38c481291c625d4862833a/
+
+- SHA256 hash: 1de8b101cf9f0fabc9f086bddb662c89d92c903c5db107910b3898537d4aa8e7
+- File size: 342,218 bytes
+- File location: C:\Users\[username]\AppData\Roaming\FluidExcess\license.dat
+- File description: data binary used to run persistent IcedID DLL
+- Sample available at: https://bazaar.abuse.ch/sample/1de8b101cf9f0fabc9f086bddb662c89d92c903c5db107910b3898537d4aa8e7/
+
+- SHA256 hash: fdb13957fca26ab5ee2743c32a261c325941f74f1834687e03add970535f1c7f
+- File size: 378,880 bytes
+- File location: C:\Users\[username]\AppData\Local\[username]\{1FFB6DBA-96C1-DB90-D87C-DF77E0048B19}\luuhpi32.dll
+- File description: 64-bit DLL used for persistent IcedID infection
+- Run method: rundll32.exe [filename],#1 --feul="[path to license.dat]"
+- Sample available at: https://bazaar.abuse.ch/sample/fdb13957fca26ab5ee2743c32a261c325941f74f1834687e03add970535f1c7f/
+
+- SHA256 hash: b3b3121d08c2ef4e38b5b67275314a0405eee50b982174d5745adea45a8f3066
+- File size: 2,134,016 bytes
+- File location: hxxp://fumukav[.]com/web.dll
+- File location: C:\Users\[username]\AppData\Local\Temp\mijeyo.dll
+- File description: 64-bit DLL stager for Cobalt Strike
+- Run method: regsvr32.exe [filename]
+- Sample available at: https://bazaar.abuse.ch/sample/b3b3121d08c2ef4e38b5b67275314a0405eee50b982174d5745adea45a8f3066/
+
+TRAFFIC FROM THE INFECTION:
+
+HTTP TRAFFIC FOR GZIP BINARY:
+
+- 178.62.57.180 port 80 - godenfasternow[.]com - GET / HTTP/1.1
+
+ICEDID C2 TRAFFIC:
+
+- 66.63.188.146 port 443 - alcoheyteri[.]click - HTTPS traffic
+- 146.190.25[.]131 port 443 - alohasockstaina[.]com - HTTPS traffic
+
+HTTP TRAFFIC FOR ICEDID STAGER:
+
+- 45.147.228[.]182 port 80 - fumukav[.]com - GET /web.dll HTTP/1.1
+
+COBALT STRIKE POST-INFECTION TRAFFIC:
+
+- 45.147.229[.]157 port 443 - jevomukif[.]com - HTTPS traffic
