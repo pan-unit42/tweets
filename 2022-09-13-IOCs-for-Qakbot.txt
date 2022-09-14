@@ -44,7 +44,7 @@ QAKBOT POST-INFECTION TRAFFIC:
 - port 2525 - mail.smtp2go.com - email banner traffic (connectivity check) not inherently malicious
 - port 465 - smtp-relay.gmail.com - email banner traffic (connectivity check) not inherently malicious
 
-* NOTE: This IP address has been used by Qakbot before, using the same HTTPS server with certificate issuer data listing an organizationName and commonName as "vipsauna[.]com"
+* NOTE: This IP has been previoulsy used by Qakbot, with the same HTTPS server and certificate issuer data.
 
 ** NOTE: This is the same IP Qakbot has consistently used for TCP port 65400 traffic since it reappeared after a brief absence in September 2021.
 
