@@ -2,7 +2,7 @@
 
 INFECTION CHAIN:
 
-- thread-hijacked email --> link --> password-protected zip archive --> extracted Windows shortcut --> HTTPS traffic for Qakbot DLL --> Qakbot post-infection activity
+- thread-hijacked email --> link --> password-protected zip --> Windows shortcut --> HTTPS traffic for Qakbot DLL --> Qakbot post-infection activity
 
 NOTES:
 
