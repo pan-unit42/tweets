@@ -46,7 +46,7 @@ QAKBOT POST-INFECTION TRAFFIC:
 
 * NOTE: This IP has been previoulsy used by Qakbot, with the same HTTPS server and certificate issuer data.
 
-** NOTE: This is the same IP Qakbot has consistently used for TCP port 65400 traffic since it reappeared after a brief absence in September 2021.
+** NOTE: This is the same IP Qakbot has consistently used for TCP port 65400 traffic since it reappeared in September 2021 after a brief absence.
 
 ASSOCIATED MALWARE:
 
