@@ -56,6 +56,7 @@ ASSOCIATED MALWARE:
 - File name: Voluptasbeatae575320321.zip
 - File description: password-protected zip archive downloaded from link in email
 - Password: U4613
+- Note: This file has a different file hash and content each time it is downloaded
 
 - SHA256 hash: 5a886f5043cbe61180a704221a2b8d66d921d0ecbd762c06f856be59900aca83
 - File size: 2,146 bytes
