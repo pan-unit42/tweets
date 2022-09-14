@@ -8,7 +8,7 @@ NOTES:
 
 - After an absence since mid-July 2022, the criminals behind Qakbot resumed spamming as early as Thursday 2022-09-08.
 
-- The metadata tag used to identify the distribution channel for recent Qakbot DLL samples has been "BB" since Qakbot reappeared last week.
+- In this Qabkto DLL sample, the metadata tag used to identify the distribution channel is "bb"
 
 - Today's infection was generated using an English language (US-based) thread-hijacked email.
 
