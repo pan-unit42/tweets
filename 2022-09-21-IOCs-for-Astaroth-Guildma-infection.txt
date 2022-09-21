@@ -37,7 +37,7 @@ MALICIOUS AUTOIT3 COMPILED SCRIPT:
 - File size: 244,658 bytes
 - File name: C:\W37604745254\Asus.Getnet.2022.1718.577.AutoIt3.log
 - File type: AutoIt v3 compiled script
-- Note: Run through shortcut in the infection users startup menu directory using copy of AutoIt3.exe
+- Note: Run through shortcut in the victim's startup menu. This script is run using a copy of AutoIt3.exe
 
 TRAFFIC FROM THE INFECTION:
 
