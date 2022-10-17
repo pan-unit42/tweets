@@ -100,4 +100,4 @@ CERTIFICATE ISSUER DATA FROM COBAL STRIKE HTTPS SERVER ON 5.8.18[.]242:
  - id-at-organizationName=
  - id-at-organizationalUnitName=
  - id-at-commonName=
- - NOTE: all values for the above fields are blank.
+ - NOTE: all values for the above fields are blank for the certificate from this Cobalt Strike server.
