@@ -73,6 +73,7 @@ ICEDID C2 ACTIVITY:
 
 - 66.63.168[.]75 port 443 - pipsolik[.]art - HTTPS traffic
 - 94.140.114[.]103 port 443 - yeloypod[.]hair - HTTPS traffic
+- 66.63.168[.]75 port 443 - airsaintol[.]beauty - HTTPS traffic
 
 COBALT STRIKE ACTIVITY:
 
