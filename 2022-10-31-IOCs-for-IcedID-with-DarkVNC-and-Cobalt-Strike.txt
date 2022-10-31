@@ -4,6 +4,11 @@ INFECTION CHAIN:
 
 - email --> HTML attachment --> password-protected zip --> ISO --> Windows shortcut runs DLL --> IcedID C2 --> DarkVNC & Cobalt Strike
 
+NOTES:
+
+- This infection was generated from an HTML file submitted to Malware Bazaar by @k3dg3 at: 
+  https://bazaar.abuse.ch/sample/eca3ef27738569bbd0d4b577da6848068769e8164d7b3276c4867f3343a8c948/
+
 ATTACHED HTML FILE:
 
 - SHA256 hash: eca3ef27738569bbd0d4b577da6848068769e8164d7b3276c4867f3343a8c948
