@@ -38,7 +38,7 @@ ICEDID MALWARE/ARTIFACTS:
 - SHA256 hash: 05a3a84096bcdc2a5cf87d07ede96aff7fd5037679f9585fee9a227c0d9cbf51
 - File size: 369,152 bytes
 - File location: C:\Users\[username]\AppData\Local\EEdafoGqJrPp\VOcAfmAvKLlv.dll
-- File description: 64-bit DLL installer sent through HTTPS Emotet C2 traffic
+- File description: 64-bit DLL installer for IcedID sent through HTTPS Emotet C2 traffic
 - Run method: rundll32.exe [filename],#1
 
 - SHA256 hash: dd7aaf2f085ed894d59430d7993b7f35151c4699d443451dde0a498fb1a80095
