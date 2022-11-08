@@ -7,7 +7,6 @@ INFECTION CHAIN:
 NOTES:
 
 - The Bumblebee infection ocurred very soon after IcedID appeared on the infected host.
-- Initial analysis indicates the Bumblebee infection may have been caused by Emotet.
 
 ASSOCIATED MALWARE:
 
