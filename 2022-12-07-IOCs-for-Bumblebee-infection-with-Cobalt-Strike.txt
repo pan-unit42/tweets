@@ -5,7 +5,7 @@ NOTES:
 - The .img disk image file used for this Bumblebee infection was submitted to VirusTotal on Tuesday 2022-12-06.
 - Cannot determine the delivery method for this .img file.
 - No Cobalt Strike binary was saved to disk.
-- Certificate data for Cobalt Strike HTTPS traffi suggest the server was established on 2022-11-15.
+- Certificate data for Cobalt Strike HTTPS traffic suggests the server was established on 2022-11-15.
 
 DISK IMAGE:
 
