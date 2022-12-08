@@ -37,7 +37,7 @@ CONTENTS OF THE ABOVE DISK IMAGE:
 
 MALWARE NOTES:
 
-- C:\Windows\System32\rundll32.exe was copied to C:\ProgramData\oiv0I4ymqE.exe and set by scheudled task to run Bumblebee DLL.
+- C:\Windows\System32\rundll32.exe was copied to C:\ProgramData\oiv0I4ymqE.exe and set by scheduled task to run Bumblebee DLL.
 
 INFECTION TRAFFIC:
 
