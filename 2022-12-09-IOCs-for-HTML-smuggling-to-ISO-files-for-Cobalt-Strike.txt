@@ -6,7 +6,8 @@ INFECTION CHAIN:
 
 NOTES:
 
-- At least 8 HTML files have been submitted to VirusTotal since 2022-12-09, all have names starting with DMCA-Report- and ending with an .html file extension.
+- This activity is a continuation of activity reported as early as 2022-12-05 at: https://twitter.com/James_inthe_box/status/1599787857467834368
+- In this most recent wave, at least 8 HTML files have been submitted to VirusTotal since 2022-12-09, all have names starting with DMCA-Report- and ending with an .html file extension.
 - No proof of delivery vector, but these were likely sent as email attachments.
 
 EXAMPLE OF ATTACHED HTML FILE AND SMUGGLED ISO IMAGE:
