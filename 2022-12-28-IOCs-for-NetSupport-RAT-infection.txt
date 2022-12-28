@@ -76,3 +76,11 @@ TRAFFIC FROM AN INFECTED WINDOWS HOST:
 - 79.137.202[.]132 port 80 - 1otal[.]com  GET /index/index.php
 - port 80 - geo.netsupportsoftware[.]com - GET /location/loca.asp
 - 89.185.85[.]44 port 2145 - 89.185.85[.]44 - POST hxxp://89.185.85[.]44/fakeurl.htm HTTP/1.1  (application/x-www-form-urlencoded)
+
+Addresses from client32.ini file used by NetSupport Manager EXE:
+
+GatewayAddress=Npinmclaugh11[.]com:2145
+Port=2145
+
+SecondaryGateway=Npinmclaugh14[.]com:2145
+Port=2145
