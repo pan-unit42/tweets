@@ -3,7 +3,7 @@
 NOTES:
 
 - Download-cdn[.]com seen in today's traffic is associated with infrastructure previously used for TA505's "Get2" (GetandGo) loader.
-- TA505's Get2 loader was last seen in 2020, back when threat actors commonly used Microsoft Office documents as initial lures.
+- TA505's Get2 loader was last seen in 2020, back when threat actors more commonly used Microsoft Office documents as initial lures.
 
 INFECTION CHAIN:
 
