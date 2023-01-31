@@ -1,11 +1,11 @@
 2023-01-31 (TUESDAY) - QAKBOT INFECTION (DISTRIBUTION TAG: BB12) WITH COBALT STRIKE AND VNC ACTIVITY
 
-NOTE:
+NOTES:
 
 - Qakbot stopped sending new spam near the end of December 2022.
 - On 2023-01-31, Qakbot returned from an absence of approximately 1 month and began spamming again.
 - Since its return, Qakbot has been using malicious OneNote (.one) files as the initial malware lure.
-- On 2023-01-31, we saw the BB12 distribution tag and the obama234 distribution tag for Qakbot DLL files.
+- Post-infection activity from our Qakbot test run today includes Cobalt Strike and VNC traffic.
 
 BB12 INFECTION CHAIN:
 
