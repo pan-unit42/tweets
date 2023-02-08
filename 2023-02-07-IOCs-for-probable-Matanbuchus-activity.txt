@@ -46,7 +46,8 @@ ASSOCIATED MALWARE:
 - File size: 657,920 bytes
 - File location: C:\Users\[username]\AppData\Roaming\\Microsoft\nonresistantOutlivesDictatorial\AphroniaHaimavati.dll
 - File description: Decoy DLL that replaces the above Matanbuchus DLL
-- Note: After above Matanbuchus DLL is run/loaded, this decoy DLL replaces it
+- Note 1: After above Matanbuchus DLL is run/loaded, this decoy DLL replaces it.
+- Note 2: This file will not do anything when run/loaded, but it's an indicator of an infection.
 
 TRAFFIC FROM AN INFECTED WINDOWS HOST:
 
