@@ -8,7 +8,7 @@ INFECTION CHAIN OF EVENTS:
 NOTES:
 
 - Matanbuchus is closely associated with email distribution channels that also spread Qakbot (Qbot).
-- Previous waves of Matanbuchus were mixed with TR-distribution Qakbot (now BB series distribution).
+- Previous waves of Matanbuchus were often mixed with TR-distribution Qakbot (now BB series distribution).
 - We can confirm valid Matanbuchus malware DLL samples through at least 2022-06-30.
 - Other sources have tweeted possible Matanbuchus activity since then, one as recently as December 2022.
 - Today's infection process & traffic has evolved from Matanbuchus samples verified in June 2022.
