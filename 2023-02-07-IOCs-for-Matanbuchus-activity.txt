@@ -2,7 +2,8 @@
 
 INFECTION CHAIN OF EVENTS:
 
-- email --> attached OneNote file --> embedded .cmd script --> traffic for installer DLL --> registry update/scheduled task --> traffic for Matanbuchus DLL --> Matanbuchus C2
+- email --> attached OneNote file --> embedded .cmd script --> traffic for installer DLL --> registry update/scheduled task -->
+  traffic for Matanbuchus DLL --> Matanbuchus C2
 
 NOTES:
 
