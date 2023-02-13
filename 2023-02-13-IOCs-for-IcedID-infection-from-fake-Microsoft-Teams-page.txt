@@ -23,8 +23,8 @@ ICEDID INSTALLER RETRIEVED GZIP BINARY:
 
 ICEDID C2:
 
-- 192.3.76[.]227 port 443 - treylercompandium[.]com - HTTPS trafffic
-- 192.3.76[.]227 port 443 - qonavlecher[.]com - HTTPS trafffic
+- 192.3.76[.]227 port 443 - treylercompandium[.]com - HTTPS traffic
+- 192.3.76[.]227 port 443 - qonavlecher[.]com - HTTPS traffic
 
 ASSOCIATED MALWARE:
 
