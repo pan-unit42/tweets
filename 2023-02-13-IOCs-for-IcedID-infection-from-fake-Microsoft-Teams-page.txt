@@ -15,7 +15,8 @@ FAKE TEAMS PAGE:
 
 ZIP ARCHIVE DOWNLOAD:
 
-- port 443 - hxxps://firebasestorage.googleapis[.]com/v0/b/hardy-city-377704.appspot.com/o/B3WPGiNEK2%2FSetup_Win_13-02-2023_16-33-16.zip?alt=media&token=ea9a5843-8216-4883-b45b-d0af1a1d80c8
+- port 443 - hxxps://firebasestorage.googleapis[.]com/v0/b/hardy-city-377704.appspot.com/o/B3WPGiNEK2%2FSetup_Win_13-02-2023_16-33-16.zip?
+             alt=media&token=ea9a5843-8216-4883-b45b-d0af1a1d80c8
 
 ICEDID INSTALLER RETRIEVED GZIP BINARY:
 
