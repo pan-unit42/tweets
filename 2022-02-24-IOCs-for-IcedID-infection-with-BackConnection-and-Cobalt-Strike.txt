@@ -1,5 +1,11 @@
 2023-02-24 (FRIDAY): ICEDID (BOKBOT) INFECTION WITH BACKCONNECT TRAFFIC AND COBALT STRIKE
 
+NOTES:
+
+- IcedID from OneNote files on 2023-02-21 (Tuesday) described at: https://twitter.com/pr0xylife/status/1628155747040210945
+- IP for IcedID BackConnect traffic reported at: https://twitter.com/teamcymru_S2/status/1629186902011138049
+- Cobalt Strike activity first reported on 2023-02-04: https://twitter.com/drb_ra/status/1622058257823965189
+
 INFECTION TRAFFIC:
 
 ICEDID INSTALLER RETRIEVES GZIP BINARY:
@@ -18,7 +24,9 @@ ICEDID BACKCONNECT TRAFFIC:
 
 COBALT STRIKE ACTIVITY:
 
-- Domain: aspnetcenter[.]com - Registered 2023-02-02
+- Domain: aspnetcenter[.]com - Registered on 2023-02-02
+- First reported as Cobalt Strike on 2023-02-04: https://twitter.com/drb_ra/status/1622058257823965189
+- Domain also seen on other IP addresses: https://twitter.com/search?q=%40drb_ra%20aspnetcenter&f=live
 
 - 23.227.203[.]70 port 80 - aspnetcenter[.]com - GET /aspnetsystem HTTP/1.1 
 - 23.227.203[.]70 port 80 - aspnetcenter[.]com - GET /da.html?close=false HTTP/1.1 
@@ -36,3 +44,4 @@ ASSOCIATED MALWARE:
 - File size: 276,992 bytes
 - File type: PE32+ executable (DLL) (GUI) x86-64 system file, for MS Windows
 - File description: 64-bit DLL for Cobalt Strike
+- Run method: unknown
