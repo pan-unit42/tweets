@@ -43,7 +43,7 @@ FILES FROM AN INFECTED WINDOWS HOST:
 
 - SHA256 hash: 4dd92c67830fbfe62fdfd431b426092ca041387c9e1598ea7e7fd18c7ef821cf
 - File size: 891,292 bytes
-- File location: hxxp://mtp.evotek[.]vn/wp-content/L/?193013
+- File location: hxxp://mtp.evotek[.]vn/wp-content/L/?160244
 - File location: [same directory as the Word document]/160244.zip
 - File type: Zip archive data, at least v2.0 to extract, compression method=deflate
 - File description: Zip archive retreived by Word macro
