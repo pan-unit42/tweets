@@ -2,7 +2,7 @@
 
 NOTES:
 
-- This activity was first tweeted on Monday 2023-03-06 by the Italy CERT at @AgidGov
+- This activity was first tweeted on Monday 2023-03-06 by the Italy CERT at @AgidCert
 - As of Thursday 2023-03-09, many URLs and servers hosting the associted malware were apparently still on-line.
 
 REFERENCES:
