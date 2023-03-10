@@ -16,7 +16,8 @@ REFERENCES:
 
 INFECTION CHAIN:
 
-- Email --> link --> HTA file containing obfuscated archive --> open downloaded archive file --> click on masquerading .exe / .lnk file within archive --> GraphicalNeutrino .dll loads and contacts notion[.]com for C2 & additional payloads
+- Email --> link --> HTA file containing obfuscated archive --> open downloaded archive file --> click on masquerading .exe / .lnk file within archive -->
+  GraphicalNeutrino .dll loads and contacts notion[.]com for C2 & additional payloads
 
 
 COMPROMISED WORDPRESS SITES USED:
