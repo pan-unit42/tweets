@@ -111,10 +111,11 @@ EXAMPLE OF AN EMOTET DLL:
 - SHA256 hash: aa57889a91be96c5b5cae185792f5ad76eb5248abb66344a740266a1c297cfd7
 - File size: 307,712 bytes
 - File location: hxxp://malli[.]su/img/PXN5J/
-- Initial saved file location: same temp directory as above click.wsf file
-- Initial saved file name: rad00A25.tmp.dll
+- Saved file location: same temp directory as above click.wsf file
+- Saved file name: rad00A25.tmp.dll
 - File description: 64-bit DLL for Emotet
 - Run method: regsvr32.exe [filename]
+- Note: File size and hash were different when downloaded from same URL at a later time.
 
 SUCCESSFUL HTTPS TRAFFIC FOR EMOTET C2 ACTIVITY:
 
