@@ -2,7 +2,8 @@
 
 NOTES:
 
-- So far, Emotet epoch 4 emails we've seen today have only had OneNote attachments, although recent Emotet malspam has used either OneNote files or zip attachments with inflated Word documents.
+- So far, Emotet epoch 4 emails we've seen today have only had OneNote attachments, although recent Emotet malspam has used
+  either OneNote files or zip attachments with inflated Word documents.
 
 - Emotet continues using zip archives when retrieving inflated Emotet DLL files.
 
