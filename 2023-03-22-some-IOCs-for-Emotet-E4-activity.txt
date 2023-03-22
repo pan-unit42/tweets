@@ -27,6 +27,8 @@ SENDER INFO FROM HEADERS IN FIVE EPOCH 4 EMAIL EXAMPLES:
 
 - Received: from www.tonan-trading[.]com (120.143.48[.]235)
   Return-Path: j.anan@tonan-trading[.]com
+  
+- Note: Information in email headers can be spoofed, so the above header lines might not reflect the true source of the email.
 
 SHA256 HASHES FOR EMOTET EPOCH 4 ONENOTE DOCUMENTS, FOUR EXAMPLES, ALL 268,004 BYTES:
 
