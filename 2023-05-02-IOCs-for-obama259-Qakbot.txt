@@ -12,6 +12,10 @@ NOTES:
 - Dark Cat VNC started approximate 12 hours after BackConnect traffic started, using the same IP address.
 - Dark Cat VNC identified by decoding the VNC traffic and viewing screen images.
 
+- For more information on BackConnect and VNC traffic associated with Qakbot, see the following blog posts:
+ -- https://www.netresec.com/?page=Blog&month=2022-10&post=IcedID-BackConnect-Protocol
+ -- https://blog.nviso.eu/2023/03/20/icedids-vnc-backdoors-dark-cat-anubis-keyhole/
+
 PDF ATTACHMENTS:
 
 - 8f7b440eaedb3ef0c0728399e22d6121038376287734cac92ddac5d93a777d7e - 46,615 bytes - Contract-330580565-May2.pdf
