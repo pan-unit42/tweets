@@ -2,7 +2,8 @@
 
 INFECTION CHAIN OF EVENTS:
 
-- Thread-hijacked email --> PDF attachment --> Link from PDF file --> downloaded zip archive --> extracted .wsf file --> downloads and runs Qakbot DLL --> Qakbot C2 activity
+- Thread-hijacked email --> PDF attachment --> Link from PDF file --> downloaded zip archive --> extracted .wsf file --> 
+  downloads and runs Qakbot DLL --> Qakbot C2 activity
 
 NOTES:
 
