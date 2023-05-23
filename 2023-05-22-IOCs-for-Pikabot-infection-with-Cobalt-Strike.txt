@@ -14,7 +14,7 @@ NOTES:
 DOMAIN HOSTING .JS FILE:
 
 - alejnr[.]com
-- Reference: https://urlhaus.abuse.ch/browse.php?search=alejnr.com
+- Reference: https://urlhaus.abuse.ch/browse.php?search=alejnr
 
 PIKABOT DLL DOWNLOAD:
 
