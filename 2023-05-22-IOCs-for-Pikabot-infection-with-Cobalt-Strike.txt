@@ -14,7 +14,7 @@ NOTES:
 DOMAIN HOSTING .JS FILE:
 
 - alejnr[.]com
-- Note: This is a legitimate, but compromised website, for URL details, see the following reference:
+- Note: This is a legitimate, but compromised website. For URL details, see the following reference:
   --- Reference: https://urlhaus.abuse.ch/browse.php?search=alejnr
 
 PIKABOT DLL DOWNLOAD:
