@@ -7,7 +7,6 @@ INFECTION CHAIN:
 NOTES:
 
 - The .js file and Pikabot DLL are different file hashes every time.
-- The Cobalt Strike server seen during this infection used a domain originally registered on 2023-04-05.
 - Initial run method for Pikabot DLLs is the same as yesterday: rundll32.exe [filename],vips
 - The Cobalt Strike server seen during this infection used a domain originally registered on 2023-04-16.
 
