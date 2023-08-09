@@ -2,7 +2,7 @@
  
 INFECTION CHAIN:
 
-- Possibly malicious ad in search results to fake webex page --> .msix installer package --> .ps1 script --> IcedID infection
+- Possibly malicious ad in search results to fake Webex page --> .msix installer package --> .ps1 script --> IcedID infection
 
 NOTES:
 
