@@ -1,0 +1,3 @@
+New threat intel data from Palo Alto Networks Unit 42 for our Timely Threat Intelligence (TTI) posts on social media will be posted to the following Github repository:
+
+- https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/tree/main
