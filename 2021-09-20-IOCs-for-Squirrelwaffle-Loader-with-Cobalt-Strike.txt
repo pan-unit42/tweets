@@ -1,5 +1,9 @@
 2021-09-20 (MONDAY)- SQUIRRELWAFFLE LOADER WITH COBALT STRIKE
 
+REFERENCE:
+
+- https://twitter.com/Unit42_Intel/status/1440027013595766784
+
 INFECTION CHAIN:
 
 malspam --> link --> zip archive --> extracted Word doc --> enable macros --> Squirrelwaffle loader --> Cobalt Strike
@@ -14,7 +18,7 @@ NOTES:
 
 - Last week we saw Word documents used for the infection chain.  Today we saw Excel spreadsheets instead.
 
-REFERENCES:
+ORIGINAL REFERENCES:
 
 - https://twitter.com/ffforward/status/1439924143730868237
 - https://twitter.com/drb_ra/status/1438076318638346249
